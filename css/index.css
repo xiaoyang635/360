@@ -1,0 +1,107 @@
+@charset "utf-8";
+/* CSS Document */
+.top .jyztp img{ margin:25px 0 0 4px;}
+input{ width:500px; height:38px; background:#eee; margin:18px 0 0 14px; border:none; outline:none;}
+.top .zsygxh a{ position:absolute; right:-17px; top:18px;}
+.zsygxh{ width:500px; height:38px; position:relative;}
+.top-r li{ background:url(../images/rentou.png) no-repeat left; padding-left:32px; float:left; margin-left:13px;}
+.top-r ul{ margin:28px 8px 0 0;}
+.kddtpl .wyydbw li a{ font-size:16px; color:#666;}
+.kddtpl{ border-top:2px solid #22ac38; margin-top:23px;}
+.kddtpl .wyydbw li .gxdwz{ color:#22ac38;}
+.kddtpl .wyydbw li{ float:left; padding-right:25px; line-height:44px;}
+.kddtpl .wyydbw li img{ marght-left:-20px;}
+.pddbj{ height:3850px; background:#f4f4f4;}
+.taitou .touge .zsygdp{ font-size:32px; color:#2b2b2b;}
+.taitou .touge li{ font-size:14px; color:#242424; float:left; height:19px; border-left:1px solid #bdbdbd; line-height:19px; padding:0 13px;}
+.taitou .touge .dqlaiaa{ padding:12px 0 0 19px;;}
+.taitou .touge .gxdwz{ color:#22ac38;  font-size:14px; padding-right:13px;}
+.taitou .touge a{ font-size:14px; color:#242424; height:19px; line-height:19px;} 
+.taitou .touge .zslgp{ font-size:24px; color:#333; margin-right:97px;}
+.taitou .touge{ padding-top:40px; }
+.dygsls{ margin-top:20px;}
+.lsdy .zsdygdw .zsmyd{ width:100%; background:#000; opacity:0.7; height:20px; position:absolute; left:0; bottom:26px;}
+.lsdy{ width:376px; height:279px; background:#fff; position:relative;}
+.lsdy .zsdygdw p{  position:absolute; left:0; bottom:26px; color:#fff;}
+.xztt{ width:380px;}
+.xztt .ysygdw{width:100%; background:#000; opacity:0.7; height:20px; position:absolute; left:0; bottom:34px;}
+.xztt li{ position:relative; width:180px; height:134px; background:#fff; float:left; margin:0 0 20px 6px;}
+.xztt .zsddp{ position:absolute; left:0; bottom:34px; color:#fff;}
+.ysygbjt{ width:240px; height:288px; background:#fff; position:relative;}
+.ysygbjt .jcsla{ width:240px; background:#000; opacity:0.7; height:20px; position:absolute; left:0; bottom:168px;}
+.ysygbjt .skdyx{ position:absolute; left:0; bottom:168px; font-size:12px; color:#fff;}
+.ysygbjt .lghgb{ font-size:14px; line-height:32px;}
+.ysygbjt .ydp{ margin:13px 0 0 19px;}
+.swdyd .dygtz li{ width:176px; height:310px; background:#fff; position:relative; float:left; margin:0 10px 20px 0;}
+.swdyd .dygtz .zjsgdwa{ width:100%; height:25px; background:#000; opacity:0.5; position:absolute; left:0; bottom:64px;}
+.swdyd .dygtz .zgdwyd{ position:absolute; left:0; bottom:66px; width:100%;}
+.swdyd .dygtz .zgdwyd .zgpx{ font-size:12px; color:#fefefe; margin-left:8px;}
+.swdyd .dygtz .zgdwyd .zssza{ font-size:14px; color:#94ff77; margin-right:11px;}
+.swdyd .dygtz .wwmxd{ font-size:14px; color:#333; margin:13px 0 5px 8px;}
+.swdyd .dygtz .dcmdns{font-size:14px;  color:#999; margin-left:8px;}
+.swdyd .dygtz{ width:760px; margin-top:20px;}
+.xiaoshulin{ position:relative; width:240px;}
+.xiaoshulin .ysjddw{ width:100%; height:20px; background:#000; opacity:0.5; position:absolute; left:0; bottom:0;}
+.xiaoshulin .zybxzdw{  position:absolute; left:0; bottom:0; color:#fff; width:240px;}
+.xiaoshulin .xinlei,.ytp1{position:absolute; left:0; bottom:0;}
+.xiaoshulin .ytp1{ color:#fff; font-size:16px; padding:0 0 7px 10px;}
+.xiaoshulin .zmht{ font-size:14px; margin-left:46px;}
+.xok{ font-size:12px; background:url(../images/bofang.png) no-repeat left; padding-left:25px;}
+.wzm li{ width:240px; height:34px; background:#eee;}
+.wzm li p{ line-height:34px; margin-left:11px; font-size:12px;}
+.wzm li .bianse{ color:#46c832;}
+.rwlzyb{ margin-top:21px;}
+.rwlzyb .gexdp{ font-size:24px; margin-top:26px;}
+.rwlzyb .xinyoulei{ width:240px; height:135px; background:#fff; margin-top:20px;}
+.rwlzyb .xinyoulei li{ font-size:14px; line-height:30px; margin-left:20px;}
+.rwlzyb .xinyoulei ul{ padding-top:6px;}
+.hfbyy .zbdo h2{ font-size:24PX; }
+.hfbyy .zbdo a{ font-size:16px; color:#333; margin:7px 0 0 20px;; }
+.hfbyy .bjkfa{ font-size:24px; margin-right:138px;}
+.xztt-2{ width:760px;}
+.xztt-2 .ysygdw{width:100%; background:#000; opacity:0.7; height:20px; position:absolute; left:0; bottom:34px;}
+.xztt-2 li{ position:relative; width:180px; height:134px; background:#fff; float:left; margin:0 0 20px 6px;}
+.xztt-2 .zsddp{ position:absolute; left:0; bottom:34px; color:#fff;}
+.xztt-2 .lihai{ position:absolute; left:0; top:0;}
+.ldha .haop{ font-size:14px; margin-top:20px;}
+.chongfu{ margin-top:23px;}
+.zmycf{ width:180px;}
+.lsdy-2 .zsdygdw .zsmyd{ width:100%; background:#000; opacity:0.7; height:20px; position:absolute; left:0; bottom:82px;}
+.lsdy-2{ width:376px; height:335px; background:#fff; position:relative;}
+.lsdy-2 .zsdygdw .hhh{  position:absolute; left:0; bottom:82px; color:#fff; }
+.lsdy-2 .kkk{ padding:20px 0 10px 3px;;}
+.xztt-3{ width:380px;}
+.xztt-3 .ysygdw{width:100%; background:#000; opacity:0.7; height:20px; position:absolute; left:0; bottom:55px;}
+.xztt-3 li{ position:relative; width:180px; height:155px; background:#fff; float:left; margin:0 0 20px 6px;}
+.xztt-3 .zsddp{ position:absolute; left:0; bottom:55px; color:#fff;}
+.xztt-3 p{ font-size:12px; line-height:22px; margin-left:3px;}
+.youcf{ margin-top:20px;}
+.lll .topjd li{ width:32px; height:32px; background:#46c832; color:#fff; line-height:32px; text-align:center; float:left; margin-left:3px;}
+.lll .nantll{ width:222px; height:300px; border-left:1px solid #e5e5e5; margin-left:18px; overflow-y:scroll; overflow-x:scroll; }
+.lll .nantll .keyyiba{ font-size:14px; color:#333;}
+.lll .nantll .haoba{ font-size:12px; color:#8a8a8a;}
+.lll .nantll li{ padding:25px 0 0 30px;}
+.lgul{ width:626px;}
+.lgul li{ float:left; padding-left:3px; padding-bottom:3px;}
+.kwsl{ margin-top:20px;}
+.zlul li{ font-size:12px; color:#666; float:left; border-right:1px solid #956695; margin-right:9px; padding-right:9px;}
+.zlul span{ font-size:12px; color:#666;}
+.zlul{ margin:203px 0 0 305px;}
+.byfd p{ float:left; font-size:12px; color:#666; padding-right:20px;}
+.byfd{ margin:17px 0 0 179px;}
+
+
+.djdll{ position:relative; height:455px; background:#a32b2c;}
+.djdll .dananti{ height:455px; position:absolute; left:50%; top:0; margin-left:-960px;}
+.djdll .tlwdl{ width:1022px; position:absolute;  left:50%; top:0; margin-left:-503px;}
+.djdll .wmjj{ position:absolute; left:0; top:280px; font-size:32px; color:#fff;}
+.djdll p{position:absolute; left:0; top:340px; font-size:18px; color:#fff;}
+.djdll .zdm{position:absolute; left:0; top:380px;}
+.djdll .zdm li{ float:left; padding-right:15px; }
+.zdm a{position:relative; width:97px; height:55px;}
+.zdm a .lgmz{ width:97px; height:55px; background:#333;}
+
+
+
+
+
